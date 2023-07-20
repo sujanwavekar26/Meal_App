@@ -16,7 +16,7 @@ body {
     height: 100%;
     color:white;
     background: #20262E; 
-    background: url(food_bg.jpg);
+    background-image: url(food_bg.jpg);
     background-size: cover;
 }
 
