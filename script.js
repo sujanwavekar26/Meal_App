@@ -75,7 +75,7 @@ function showListOfMeals(){
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-12 text-center">
-                        <img src="./static/png/404-search.png" width="50%">  
+                        <img src="404-search.png" width="50%">  
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@ async function showFavMealList() {
         html += `
             <div class="page-wrap d-flex flex-row align-items-center">
                 <div class="container">
-                <img src="./static/png/404.png" alt="404 error png image" width="100%"> 
+                <img src="404.png" alt="404 error png image" width="100%"> 
                 </div>
             </div>
             `;
